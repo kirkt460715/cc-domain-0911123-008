@@ -1,0 +1,1876 @@
+{
+  "synthetic": true,
+  "records": [
+    {
+      "id": "s0",
+      "batch": "lot0",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "left_day": "30",
+      "right_day": "30",
+      "kind": "exact"
+    },
+    {
+      "id": "s1",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "24",
+      "right_day": "27",
+      "kind": "interval"
+    },
+    {
+      "id": "s2",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "18",
+      "right_day": "21",
+      "kind": "interval"
+    },
+    {
+      "id": "s3",
+      "batch": "lot0",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "27",
+      "right_day": "30",
+      "kind": "interval"
+    },
+    {
+      "id": "s4",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "21",
+      "right_day": "24",
+      "kind": "interval"
+    },
+    {
+      "id": "s5",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "left_day": "15",
+      "right_day": "18",
+      "kind": "interval"
+    },
+    {
+      "id": "s6",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "24",
+      "right_day": "27",
+      "kind": "interval"
+    },
+    {
+      "id": "s7",
+      "batch": "lot1",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "18",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s8",
+      "batch": "lot1",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "12",
+      "right_day": "15",
+      "kind": "interval"
+    },
+    {
+      "id": "s9",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "21",
+      "right_day": "24",
+      "kind": "interval"
+    },
+    {
+      "id": "s10",
+      "batch": "lot1",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "left_day": "15",
+      "right_day": "18",
+      "kind": "interval"
+    },
+    {
+      "id": "s11",
+      "batch": "lot1",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "9",
+      "right_day": "9",
+      "kind": "exact"
+    },
+    {
+      "id": "s12",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "18",
+      "right_day": "21",
+      "kind": "interval"
+    },
+    {
+      "id": "s13",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "12",
+      "right_day": "15",
+      "kind": "interval"
+    },
+    {
+      "id": "s14",
+      "batch": "lot2",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "6",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s15",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "left_day": "15",
+      "right_day": "18",
+      "kind": "interval"
+    },
+    {
+      "id": "s16",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "9",
+      "right_day": "12",
+      "kind": "interval"
+    },
+    {
+      "id": "s17",
+      "batch": "lot2",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "20",
+      "right_day": "23",
+      "kind": "interval"
+    },
+    {
+      "id": "s18",
+      "batch": "lot3",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "29",
+      "right_day": "32",
+      "kind": "interval"
+    },
+    {
+      "id": "s19",
+      "batch": "lot3",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "23",
+      "right_day": "26",
+      "kind": "interval"
+    },
+    {
+      "id": "s20",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "left_day": "17",
+      "right_day": "20",
+      "kind": "interval"
+    },
+    {
+      "id": "s21",
+      "batch": "lot3",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "26",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s22",
+      "batch": "lot3",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "20",
+      "right_day": "20",
+      "kind": "exact"
+    },
+    {
+      "id": "s23",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "14",
+      "right_day": "17",
+      "kind": "interval"
+    },
+    {
+      "id": "s24",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "23",
+      "right_day": "26",
+      "kind": "interval"
+    },
+    {
+      "id": "s25",
+      "batch": "lot4",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "left_day": "17",
+      "right_day": "20",
+      "kind": "interval"
+    },
+    {
+      "id": "s26",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "11",
+      "right_day": "14",
+      "kind": "interval"
+    },
+    {
+      "id": "s27",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "20",
+      "right_day": "23",
+      "kind": "interval"
+    },
+    {
+      "id": "s28",
+      "batch": "lot4",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "14",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s29",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "8",
+      "right_day": "11",
+      "kind": "interval"
+    },
+    {
+      "id": "s30",
+      "batch": "lot5",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "left_day": "17",
+      "right_day": "20",
+      "kind": "interval"
+    },
+    {
+      "id": "s31",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "11",
+      "right_day": "14",
+      "kind": "interval"
+    },
+    {
+      "id": "s32",
+      "batch": "lot5",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "5",
+      "right_day": "8",
+      "kind": "interval"
+    },
+    {
+      "id": "s33",
+      "batch": "lot5",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "14",
+      "right_day": "14",
+      "kind": "exact"
+    },
+    {
+      "id": "s34",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "25",
+      "right_day": "28",
+      "kind": "interval"
+    },
+    {
+      "id": "s35",
+      "batch": "lot5",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "left_day": "19",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s36",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "28",
+      "right_day": "31",
+      "kind": "interval"
+    },
+    {
+      "id": "s37",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "22",
+      "right_day": "25",
+      "kind": "interval"
+    },
+    {
+      "id": "s38",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "16",
+      "right_day": "19",
+      "kind": "interval"
+    },
+    {
+      "id": "s39",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "25",
+      "right_day": "28",
+      "kind": "interval"
+    },
+    {
+      "id": "s40",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "left_day": "19",
+      "right_day": "22",
+      "kind": "interval"
+    },
+    {
+      "id": "s41",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "13",
+      "right_day": "16",
+      "kind": "interval"
+    },
+    {
+      "id": "s42",
+      "batch": "lot7",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "22",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s43",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "16",
+      "right_day": "19",
+      "kind": "interval"
+    },
+    {
+      "id": "s44",
+      "batch": "lot7",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "10",
+      "right_day": "10",
+      "kind": "exact"
+    },
+    {
+      "id": "s45",
+      "batch": "lot7",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "left_day": "19",
+      "right_day": "22",
+      "kind": "interval"
+    },
+    {
+      "id": "s46",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "13",
+      "right_day": "16",
+      "kind": "interval"
+    },
+    {
+      "id": "s47",
+      "batch": "lot7",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "7",
+      "right_day": "10",
+      "kind": "interval"
+    },
+    {
+      "id": "s48",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "16",
+      "right_day": "19",
+      "kind": "interval"
+    },
+    {
+      "id": "s49",
+      "batch": "lot8",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "10",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s50",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "left_day": "4",
+      "right_day": "7",
+      "kind": "interval"
+    },
+    {
+      "id": "s51",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "30",
+      "right_day": "33",
+      "kind": "interval"
+    },
+    {
+      "id": "s52",
+      "batch": "lot8",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "24",
+      "right_day": "27",
+      "kind": "interval"
+    },
+    {
+      "id": "s53",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "18",
+      "right_day": "21",
+      "kind": "interval"
+    },
+    {
+      "id": "s54",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "27",
+      "right_day": "30",
+      "kind": "interval"
+    },
+    {
+      "id": "s55",
+      "batch": "lot9",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "left_day": "21",
+      "right_day": "21",
+      "kind": "exact"
+    },
+    {
+      "id": "s56",
+      "batch": "lot9",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "15",
+      "right_day": null,
+      "kind": "right"
+    },
+    {
+      "id": "s57",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "left_day": "24",
+      "right_day": "27",
+      "kind": "interval"
+    },
+    {
+      "id": "s58",
+      "batch": "lot9",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "left_day": "18",
+      "right_day": "21",
+      "kind": "interval"
+    },
+    {
+      "id": "s59",
+      "batch": "lot9",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "left_day": "12",
+      "right_day": "15",
+      "kind": "interval"
+    }
+  ],
+  "use_temperature_c": "25",
+  "inspection_records": [
+    {
+      "specimen": "s0",
+      "batch": "lot0",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s0",
+      "batch": "lot0",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "30",
+      "result": "failed"
+    },
+    {
+      "specimen": "s1",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s1",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "24",
+      "result": "normal"
+    },
+    {
+      "specimen": "s1",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "27",
+      "result": "failed"
+    },
+    {
+      "specimen": "s2",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s2",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "18",
+      "result": "normal"
+    },
+    {
+      "specimen": "s2",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "21",
+      "result": "failed"
+    },
+    {
+      "specimen": "s3",
+      "batch": "lot0",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s3",
+      "batch": "lot0",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "27",
+      "result": "normal"
+    },
+    {
+      "specimen": "s3",
+      "batch": "lot0",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "30",
+      "result": "failed"
+    },
+    {
+      "specimen": "s4",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s4",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "21",
+      "result": "normal"
+    },
+    {
+      "specimen": "s4",
+      "batch": "lot0",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "24",
+      "result": "failed"
+    },
+    {
+      "specimen": "s5",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s5",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "15",
+      "result": "normal"
+    },
+    {
+      "specimen": "s5",
+      "batch": "lot0",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "18",
+      "result": "failed"
+    },
+    {
+      "specimen": "s6",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s6",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "24",
+      "result": "normal"
+    },
+    {
+      "specimen": "s6",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "27",
+      "result": "failed"
+    },
+    {
+      "specimen": "s7",
+      "batch": "lot1",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s7",
+      "batch": "lot1",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "18",
+      "result": "normal"
+    },
+    {
+      "specimen": "s8",
+      "batch": "lot1",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s8",
+      "batch": "lot1",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "12",
+      "result": "normal"
+    },
+    {
+      "specimen": "s8",
+      "batch": "lot1",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "15",
+      "result": "failed"
+    },
+    {
+      "specimen": "s9",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s9",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "21",
+      "result": "normal"
+    },
+    {
+      "specimen": "s9",
+      "batch": "lot1",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "24",
+      "result": "failed"
+    },
+    {
+      "specimen": "s10",
+      "batch": "lot1",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s10",
+      "batch": "lot1",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "15",
+      "result": "normal"
+    },
+    {
+      "specimen": "s10",
+      "batch": "lot1",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "18",
+      "result": "failed"
+    },
+    {
+      "specimen": "s11",
+      "batch": "lot1",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s11",
+      "batch": "lot1",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "9",
+      "result": "failed"
+    },
+    {
+      "specimen": "s12",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s12",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "18",
+      "result": "normal"
+    },
+    {
+      "specimen": "s12",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "21",
+      "result": "failed"
+    },
+    {
+      "specimen": "s13",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s13",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "12",
+      "result": "normal"
+    },
+    {
+      "specimen": "s13",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "15",
+      "result": "failed"
+    },
+    {
+      "specimen": "s14",
+      "batch": "lot2",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s14",
+      "batch": "lot2",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "6",
+      "result": "normal"
+    },
+    {
+      "specimen": "s15",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s15",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "15",
+      "result": "normal"
+    },
+    {
+      "specimen": "s15",
+      "batch": "lot2",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "18",
+      "result": "failed"
+    },
+    {
+      "specimen": "s16",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s16",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "9",
+      "result": "normal"
+    },
+    {
+      "specimen": "s16",
+      "batch": "lot2",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "12",
+      "result": "failed"
+    },
+    {
+      "specimen": "s17",
+      "batch": "lot2",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s17",
+      "batch": "lot2",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "20",
+      "result": "normal"
+    },
+    {
+      "specimen": "s17",
+      "batch": "lot2",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "23",
+      "result": "failed"
+    },
+    {
+      "specimen": "s18",
+      "batch": "lot3",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s18",
+      "batch": "lot3",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "29",
+      "result": "normal"
+    },
+    {
+      "specimen": "s18",
+      "batch": "lot3",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "32",
+      "result": "failed"
+    },
+    {
+      "specimen": "s19",
+      "batch": "lot3",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s19",
+      "batch": "lot3",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "23",
+      "result": "normal"
+    },
+    {
+      "specimen": "s19",
+      "batch": "lot3",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "26",
+      "result": "failed"
+    },
+    {
+      "specimen": "s20",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s20",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "17",
+      "result": "normal"
+    },
+    {
+      "specimen": "s20",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "20",
+      "result": "failed"
+    },
+    {
+      "specimen": "s21",
+      "batch": "lot3",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s21",
+      "batch": "lot3",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "26",
+      "result": "normal"
+    },
+    {
+      "specimen": "s22",
+      "batch": "lot3",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s22",
+      "batch": "lot3",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "20",
+      "result": "failed"
+    },
+    {
+      "specimen": "s23",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s23",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "14",
+      "result": "normal"
+    },
+    {
+      "specimen": "s23",
+      "batch": "lot3",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "17",
+      "result": "failed"
+    },
+    {
+      "specimen": "s24",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s24",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "23",
+      "result": "normal"
+    },
+    {
+      "specimen": "s24",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "26",
+      "result": "failed"
+    },
+    {
+      "specimen": "s25",
+      "batch": "lot4",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s25",
+      "batch": "lot4",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "17",
+      "result": "normal"
+    },
+    {
+      "specimen": "s25",
+      "batch": "lot4",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "20",
+      "result": "failed"
+    },
+    {
+      "specimen": "s26",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s26",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "11",
+      "result": "normal"
+    },
+    {
+      "specimen": "s26",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "14",
+      "result": "failed"
+    },
+    {
+      "specimen": "s27",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s27",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "20",
+      "result": "normal"
+    },
+    {
+      "specimen": "s27",
+      "batch": "lot4",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "23",
+      "result": "failed"
+    },
+    {
+      "specimen": "s28",
+      "batch": "lot4",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s28",
+      "batch": "lot4",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "14",
+      "result": "normal"
+    },
+    {
+      "specimen": "s29",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s29",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "8",
+      "result": "normal"
+    },
+    {
+      "specimen": "s29",
+      "batch": "lot4",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "11",
+      "result": "failed"
+    },
+    {
+      "specimen": "s30",
+      "batch": "lot5",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s30",
+      "batch": "lot5",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "17",
+      "result": "normal"
+    },
+    {
+      "specimen": "s30",
+      "batch": "lot5",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "20",
+      "result": "failed"
+    },
+    {
+      "specimen": "s31",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s31",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "11",
+      "result": "normal"
+    },
+    {
+      "specimen": "s31",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "14",
+      "result": "failed"
+    },
+    {
+      "specimen": "s32",
+      "batch": "lot5",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s32",
+      "batch": "lot5",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "5",
+      "result": "normal"
+    },
+    {
+      "specimen": "s32",
+      "batch": "lot5",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "8",
+      "result": "failed"
+    },
+    {
+      "specimen": "s33",
+      "batch": "lot5",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s33",
+      "batch": "lot5",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "14",
+      "result": "failed"
+    },
+    {
+      "specimen": "s34",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s34",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "25",
+      "result": "normal"
+    },
+    {
+      "specimen": "s34",
+      "batch": "lot5",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "28",
+      "result": "failed"
+    },
+    {
+      "specimen": "s35",
+      "batch": "lot5",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s35",
+      "batch": "lot5",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "19",
+      "result": "normal"
+    },
+    {
+      "specimen": "s36",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s36",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "28",
+      "result": "normal"
+    },
+    {
+      "specimen": "s36",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "31",
+      "result": "failed"
+    },
+    {
+      "specimen": "s37",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s37",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "22",
+      "result": "normal"
+    },
+    {
+      "specimen": "s37",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "25",
+      "result": "failed"
+    },
+    {
+      "specimen": "s38",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s38",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "16",
+      "result": "normal"
+    },
+    {
+      "specimen": "s38",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "19",
+      "result": "failed"
+    },
+    {
+      "specimen": "s39",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s39",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "25",
+      "result": "normal"
+    },
+    {
+      "specimen": "s39",
+      "batch": "lot6",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "28",
+      "result": "failed"
+    },
+    {
+      "specimen": "s40",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s40",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "19",
+      "result": "normal"
+    },
+    {
+      "specimen": "s40",
+      "batch": "lot6",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "22",
+      "result": "failed"
+    },
+    {
+      "specimen": "s41",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s41",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "13",
+      "result": "normal"
+    },
+    {
+      "specimen": "s41",
+      "batch": "lot6",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "16",
+      "result": "failed"
+    },
+    {
+      "specimen": "s42",
+      "batch": "lot7",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s42",
+      "batch": "lot7",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "22",
+      "result": "normal"
+    },
+    {
+      "specimen": "s43",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s43",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "16",
+      "result": "normal"
+    },
+    {
+      "specimen": "s43",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "19",
+      "result": "failed"
+    },
+    {
+      "specimen": "s44",
+      "batch": "lot7",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s44",
+      "batch": "lot7",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "10",
+      "result": "failed"
+    },
+    {
+      "specimen": "s45",
+      "batch": "lot7",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s45",
+      "batch": "lot7",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "19",
+      "result": "normal"
+    },
+    {
+      "specimen": "s45",
+      "batch": "lot7",
+      "temperature_c": "60",
+      "entry_day": "1",
+      "inspection_day": "22",
+      "result": "failed"
+    },
+    {
+      "specimen": "s46",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s46",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "13",
+      "result": "normal"
+    },
+    {
+      "specimen": "s46",
+      "batch": "lot7",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "16",
+      "result": "failed"
+    },
+    {
+      "specimen": "s47",
+      "batch": "lot7",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s47",
+      "batch": "lot7",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "7",
+      "result": "normal"
+    },
+    {
+      "specimen": "s47",
+      "batch": "lot7",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "10",
+      "result": "failed"
+    },
+    {
+      "specimen": "s48",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s48",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "16",
+      "result": "normal"
+    },
+    {
+      "specimen": "s48",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "19",
+      "result": "failed"
+    },
+    {
+      "specimen": "s49",
+      "batch": "lot8",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s49",
+      "batch": "lot8",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "10",
+      "result": "normal"
+    },
+    {
+      "specimen": "s50",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s50",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "4",
+      "result": "normal"
+    },
+    {
+      "specimen": "s50",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "1",
+      "inspection_day": "7",
+      "result": "failed"
+    },
+    {
+      "specimen": "s51",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s51",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "30",
+      "result": "normal"
+    },
+    {
+      "specimen": "s51",
+      "batch": "lot8",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "33",
+      "result": "failed"
+    },
+    {
+      "specimen": "s52",
+      "batch": "lot8",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s52",
+      "batch": "lot8",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "24",
+      "result": "normal"
+    },
+    {
+      "specimen": "s52",
+      "batch": "lot8",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "27",
+      "result": "failed"
+    },
+    {
+      "specimen": "s53",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s53",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "18",
+      "result": "normal"
+    },
+    {
+      "specimen": "s53",
+      "batch": "lot8",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "21",
+      "result": "failed"
+    },
+    {
+      "specimen": "s54",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s54",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "27",
+      "result": "normal"
+    },
+    {
+      "specimen": "s54",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "30",
+      "result": "failed"
+    },
+    {
+      "specimen": "s55",
+      "batch": "lot9",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "1",
+      "result": "normal"
+    },
+    {
+      "specimen": "s55",
+      "batch": "lot9",
+      "temperature_c": "80",
+      "entry_day": "1",
+      "inspection_day": "21",
+      "result": "failed"
+    },
+    {
+      "specimen": "s56",
+      "batch": "lot9",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s56",
+      "batch": "lot9",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "15",
+      "result": "normal"
+    },
+    {
+      "specimen": "s57",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s57",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "24",
+      "result": "normal"
+    },
+    {
+      "specimen": "s57",
+      "batch": "lot9",
+      "temperature_c": "60",
+      "entry_day": "0",
+      "inspection_day": "27",
+      "result": "failed"
+    },
+    {
+      "specimen": "s58",
+      "batch": "lot9",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s58",
+      "batch": "lot9",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "18",
+      "result": "normal"
+    },
+    {
+      "specimen": "s58",
+      "batch": "lot9",
+      "temperature_c": "80",
+      "entry_day": "0",
+      "inspection_day": "21",
+      "result": "failed"
+    },
+    {
+      "specimen": "s59",
+      "batch": "lot9",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "0",
+      "result": "normal"
+    },
+    {
+      "specimen": "s59",
+      "batch": "lot9",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "12",
+      "result": "normal"
+    },
+    {
+      "specimen": "s59",
+      "batch": "lot9",
+      "temperature_c": "100",
+      "entry_day": "0",
+      "inspection_day": "15",
+      "result": "failed"
+    }
+  ]
+}
