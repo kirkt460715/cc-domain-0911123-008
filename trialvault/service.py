@@ -3,6 +3,7 @@ from .contracts.suites import QualitySuites
 from .contracts.migration import SchemaMigration
 from .releases.retention import RetentionReview
 from .catalog.query import CatalogQueries
+from .reliability.store import LifeExperiments
 from pathlib import Path
 from .validation import reject
 from .artifacts.store import ArtifactStore
@@ -39,6 +40,9 @@ class Vault:
         self.migrations = SchemaMigration(self.database, self.registry, self.ingestion)
         self.retention = RetentionReview(self.database, self.registry, self.releases)
         self.queries = CatalogQueries(self.database, self.registry, self.ingestion)
+        self.life = LifeExperiments(
+            self.database, self.registry, self.ingestion, self.releases, self.artifacts
+        )
 
     def close(self):
         self.database.close()

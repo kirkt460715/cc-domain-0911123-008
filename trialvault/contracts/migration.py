@@ -100,7 +100,7 @@ class SchemaMigration:
                         "error": exc.as_dict(),
                     }
                 )
-        valid.sort(key=new_schema.row_key)
+        valid.sort(key=new_schema.order_key)
         report = {
             "id": migration_id,
             "request": request,

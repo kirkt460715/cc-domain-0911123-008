@@ -96,6 +96,18 @@ def dispatch(vault, request):
         return vault.queries.lookup(**options)
     if action == "storage_usage":
         return vault.queries.storage_usage()
+    if action == "life_run":
+        return vault.life.run(**options)
+    if action == "life_get":
+        return vault.life.get(options["id"])
+    if action == "life_list":
+        return vault.life.list()
+    if action == "life_export":
+        return vault.life.export(**options)
+    if action == "life_verify":
+        from .reliability.store import verify_life_export
+
+        return verify_life_export(options["path"], options.get("recompute", False))
     reject("input", "unknown action", action=action)
 
 

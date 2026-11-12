@@ -95,7 +95,7 @@ class Ingestion:
                 result.append(normalized)
             except VaultError as exc:
                 reject("row", "row violates contract", line=number, error=exc.as_dict())
-        result.sort(key=schema.row_key)
+        result.sort(key=schema.order_key)
         return result
 
     def ingest(

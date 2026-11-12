@@ -175,6 +175,30 @@ class Schema:
     def row_key(self, row):
         return canonical([row[field] for field in self.primary_key])
 
+    def order_key(self, row):
+        """Deterministic storage order with numeric columns compared numerically.
+
+        ``row_key`` stays the canonical JSON identity used for digests and
+        duplicate detection.  Ordering uses the declared field type so that
+        decimal and integer keys (e.g. inspection days ``0``, ``9``, ``12``)
+        are stored in numeric rather than lexicographic order.
+        """
+        result = []
+        for field_name in self.primary_key:
+            value = row[field_name]
+            field = self.by_name[field_name]
+            if field.type == "integer":
+                result.append((0, value, ""))
+            elif field.type == "decimal":
+                result.append((1, decimal(value), ""))
+            elif field.type == "timestamp":
+                result.append((2, 0, value))
+            elif field.type == "boolean":
+                result.append((3, int(value), ""))
+            else:
+                result.append((4, 0, value))
+        return tuple(result)
+
     def as_dict(self):
         return {
             "id": self.id,
